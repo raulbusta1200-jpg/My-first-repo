@@ -1,38 +1,21 @@
+MIT License
 
-> **Importante:** cambia `TU-USUARIO` por tu nombre de usuario real de GitHub.
+Copyright (c) 2026 Raulbusta1200
 
----
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-### 2. .gitignore (cópialo completo)
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-```gitignore
-# Sistema operativo
-.DS_Store
-Thumbs.db
-desktop.ini
-
-# Editores
-.vscode/
-.idea/
-*.swp
-*.swo
-*~
-
-# Python (por si acaso)
-__pycache__/
-*.py[cod]
-*.egg-info/
-.venv/
-venv/
-env/
-
-# Node (por si acaso)
-node_modules/
-npm-debug.log
-yarn-error.log
-
-# Archivos temporales
-*.tmp
-*.temp
-*.log
-*.bak
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
