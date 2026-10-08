@@ -1,1 +1,38 @@
 
+> **Importante:** cambia `TU-USUARIO` por tu nombre de usuario real de GitHub.
+
+---
+
+### 2. .gitignore (cópialo completo)
+
+```gitignore
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python (por si acaso)
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Node (por si acaso)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Archivos temporales
+*.tmp
+*.temp
+*.log
+*.bak
